@@ -19,7 +19,7 @@ Criar uma aplicação onde o usuário pode:
 ### 🔙 Backend
 - **Linguagem**: C#
 - **Framework**: .NET 6 ou superior
-- **API de LLM**: OpenAI (ChatGPT - via `gpt-3.5-turbo` ou `gpt-4`)
+- **API de LLM**: OpenAI (ChatGPT, Gemini, ou qualquer outra LLM que preferir)
 - **Persistência**: Entity Framework Core (banco de dados à sua escolha)
 
 ### 🔜 Frontend
